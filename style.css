@@ -1,0 +1,94 @@
+header {
+  margin: 20px;
+  border: 1px solid #B2BABB;
+  padding: 10px;
+  background-color: #E9F7EF;
+  color: #1A5276;
+  text-align: center;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: Garamond;
+  color: #1A5276;
+}
+
+.history {
+  border: 1px solid #B2BABB;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  background-color: #D5F5E3;
+  text-align: center;
+}
+
+.about {
+  border: 1px solid #B2BABB;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  background-color: #D5F5E3;
+  text-align: center;
+}
+
+.bakedgoods {
+  border: 1px solid #B2BABB;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  background-color: #D5F5E3;
+  text-align: center;
+}
+
+.cookies-ingredients {
+  border: 1px solid #B2BABB;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  background-color: #D5F5E3;
+}
+
+.links {
+  border: 1px solid #B2BABB;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  background-color: #D5F5E3;
+  text-align: center;
+}
+
+.main-recipetitle {
+  text-align: center;
+}
+
+h2 {
+  font-family: Garamond;
+  color: #1A5276;
+}
+
+h3 {
+  font-family: Garamond;
+  color: #1A5276;
+}
+
+img {
+  display: block;
+  width: 420px;
+  height: 300px;
+  margin: auto;
+}
+
+ body {
+   background: #ABEBC6;
+   font-family: Garamond;
+ }
